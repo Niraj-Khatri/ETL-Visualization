@@ -13,5 +13,5 @@ I set up a backend server using MongoDB (create_mongodb.ipynb). I used Python to
 Finally, I used JavaScript, D3, and Geojson information to create a dynnamic map the United States based on candidate win percentage at the state and county level. 
 ![image](https://user-images.githubusercontent.com/77458990/128561700-8db59cc4-cce0-48ef-a521-7e06d846381b.png)
 
-(When a state is clicked on)
+(When a state is clicked on. In the example below, Georgia was clicked.)
 ![image](https://user-images.githubusercontent.com/77458990/128561749-68d48f8f-4ca2-4e6c-9f81-03aa6cded0f7.png)
