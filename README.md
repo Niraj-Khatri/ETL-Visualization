@@ -1,16 +1,6 @@
-Group 3 ETL PROJECT
-
-Project Members:
-Niraj Khatri,
-Kaixin Yang,
-Supraja Koppisetty,
-Eric Shadle,
-Felix Ogbodu.
+ETL PROJECT
 
 Project Summary:
-We used election 2020 data to create a website that was served that data and generated graphs. Niraj set up the backend server and Supraja designed the front-end. Everyone was responsible creating a graph that pulled and manipulated data from the backend.
-Niraj completed the heatmap, Kaixin completed the dashboards, Supraja completed the pie charts, and Eric completed the bubble map.
+I used election 2020 data to create a website that was served that data and generated graphs. The data was collected from Kaggle.com (https://www.kaggle.com/unanimad/us-election-2020) and the files used were: president_county.csv, president_county_candidate.csv, and president_state.csv.
 
-Files to be submitted
--> assets/create_mongodb.ipynb
--> assets/templates (entire folder)
+![image](https://user-images.githubusercontent.com/77458990/128533724-0ca7738b-ac50-495a-9ff7-4a08752240ec.png)
