@@ -6,7 +6,7 @@ I used election 2020 data to create a website that was served that data and gene
 
 
 
-<hr>
+
 I set up a backend server using MongoDB (create_mongodb.ipynb). I used Python to calculate the election percentages by state and by county and Flask to serve the data to a local server. 
 
 ![image](https://user-images.githubusercontent.com/77458990/128561443-3cdeae65-64a9-41f3-b46b-fd2290954545.png)
