@@ -1,4 +1,4 @@
-<h1 align="center"> ETL PROJECT </h1>
+<h1 align="center"> Election 2020 Results </h1>
 
 I used election 2020 data to create a website that was served that data and generated graphs. The data was collected from Kaggle.com (https://www.kaggle.com/unanimad/us-election-2020) and the files used were: president_county.csv, president_county_candidate.csv, and president_state.csv.
 
